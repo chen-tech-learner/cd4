@@ -1,56 +1,49 @@
 import requests
+import time
 
-# 3个上游订阅地址
 source_urls = [
-    "https://fastly.jsdelivr.net/gh/a736240087/tvbox@main/tvlive/tvlive.txt",
+    "https://fastly.jsdelivr.net/gh/a736240087/tvbox@main/tvLive/tvLive.txt",
     "https://fastly.jsdelivr.net/gh/shangzhouwan/iptv@daily-build/IPTV.m3u",
-    "https://fastly.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u"
+    "https://fastly.jsdelivr.net/gh/yuanzL77/IPTV@latest/Live.m3u"
 ]
 
-# 存放已经见过的链接，用来去重
+out_file = "my_live.m3u"
+timeout_sec = 6
 seen_url = set()
 output_lines = ["#EXTM3U"]
 
-for url in source_urls:
+def is_alive(url):
     try:
-        resp = requests.get(url, timeout=15)
-        resp.raise_for_status()
-        text = resp.text
+        headers = {"User‑Agent":"Mozilla/5.0"}
+        r = requests.head(url, headers=headers, timeout=timeout_sec)
+        if r.status_code == 200:
+            return True
+    except Exception:
+        pass
+    return False
 
-        lines = text.splitlines()
+for src in source_urls:
+    try:
+        resp = requests.get(src, timeout=15)
+        resp.raise_for_status()
+        lines = resp.text.splitlines()
         i = 0
         while i < len(lines):
-            line = lines[i].strip()
-            if not line:
-                i += 1
-                continue
-            # #EXTINF 行 + 下一行播放链接
-            if line.startswith("#EXTINF") and (i+1) < len(lines):
-                next_line = lines[i+1].strip()
-                if next_line.startswith("http"):
-                    if next_line not in seen_url:
-                        seen_url.add(next_line)
-                        output_lines.append(line)
-                        output_lines.append(next_line)
+            infoline = lines[i].strip()
+            if infoline.startswith("#EXTINF") and i+1 < len(lines):
+                playurl = lines[i+1].strip()
+                if playurl.startswith("http"):
+                    if playurl not in seen_url:
+                        if is_alive(playurl):
+                            seen_url.add(playurl)
+                            output_lines.append(infoline)
+                            output_lines.append(playurl)
                 i += 2
-            # txt格式：频道名,http链接
-            elif "," in line and line.startswith(("CCTV","卫视")):
-                parts = line.split(",",1)
-                if len(parts)==2 and parts[1].startswith("http"):
-                    name,u = parts[0], parts[1]
-                    if u not in seen_url:
-                        seen_url.add(u)
-                        output_lines.append(f'#EXTINF:-1 tvg-name="{name}",{name}')
-                        output_lines.append(u)
-                i +=1
             else:
-                i +=1
-
+                i += 1
     except Exception as e:
-        print(f"获取失败 {url} ：{e}")
+        print(f"读取源失败：{src} ，错误：{e}")
 
-# 写出文件
-with open("my_live.m3u","w",encoding="utf-8") as f:
+with open(out_file,"w",encoding="utf-8") as f:
     f.write("\n".join(output_lines))
-
-print("生成完成 my_live.m3u，一共",len(seen_url),"条链接")
+print("处理完成")
