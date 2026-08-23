@@ -1,9 +1,9 @@
 import requests
 
 source_urls = [
-    "https://fastly.jsdelivr.net/gh/a736240087/tvbox@main/tvLive/tvLive.txt",
-    "https://fastly.jsdelivr.net/gh/shangzhouwan/iptv@daily-build/IPTV.m3u",
-    "https://fastly.jsdelivr.net/gh/yuanzL77/IPTV@latest/Live.m3u"
+    "https://fastly.jsdelivr.net/gh/fanmingming/live/tv.m3u",
+    "https://fastly.jsdelivr.net/gh/ssili126/tv/iptv4.m3u",
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
 ]
 
 out_file = "my_live.m3u"
