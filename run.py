@@ -1,5 +1,4 @@
 import requests
-import time
 
 source_urls = [
     "https://fastly.jsdelivr.net/gh/a736240087/tvbox@main/tvLive/tvLive.txt",
@@ -8,19 +7,8 @@ source_urls = [
 ]
 
 out_file = "my_live.m3u"
-timeout_sec = 6
 seen_url = set()
 output_lines = ["#EXTM3U"]
-
-def is_alive(url):
-    try:
-        headers = {"User‑Agent":"Mozilla/5.0"}
-        r = requests.head(url, headers=headers, timeout=timeout_sec)
-        if r.status_code == 200:
-            return True
-    except Exception:
-        pass
-    return False
 
 for src in source_urls:
     try:
@@ -34,10 +22,9 @@ for src in source_urls:
                 playurl = lines[i+1].strip()
                 if playurl.startswith("http"):
                     if playurl not in seen_url:
-                        if is_alive(playurl):
-                            seen_url.add(playurl)
-                            output_lines.append(infoline)
-                            output_lines.append(playurl)
+                        seen_url.add(playurl)
+                        output_lines.append(infoline)
+                        output_lines.append(playurl)
                 i += 2
             else:
                 i += 1
@@ -46,4 +33,4 @@ for src in source_urls:
 
 with open(out_file,"w",encoding="utf-8") as f:
     f.write("\n".join(output_lines))
-print("处理完成")
+print("合并完成")
