@@ -18,19 +18,19 @@ for src in source_urls:
         i = 0
         while i < len(lines):
             infoline = lines[i].strip()
-            if infoline.startswith("#EXTINF") and i+1 < len(lines):
+            if infoline.startswith("#EXTINF") and i + 1 < len(lines):
                 playurl = lines[i+1].strip()
-                if playurl.startswith("http"):
+                if playurl.startswith("http") and "[" not in playurl:
                     if playurl not in seen_url:
                         seen_url.add(playurl)
                         output_lines.append(infoline)
                         output_lines.append(playurl)
-                i += 2
+                i = i + 2
             else:
-                i += 1
-    except Exception as e:
-        print(f"读取源失败：{src} ，错误：{e}")
+                i = i + 1
+    except Exception as err:
+        print(f"读取出错 {src} : {err}")
 
-with open(out_file,"w",encoding="utf-8") as f:
+with open(out_file, "w", encoding="utf-8") as f:
     f.write("\n".join(output_lines))
-print("合并完成")
+print("执行结束，已过滤IPv6")
