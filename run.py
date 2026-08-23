@@ -13,13 +13,14 @@ for src in source_urls:
    if infoline.startswith("#EXTINF")and i+1<len(lines):
     playurl=lines[i+1].strip()
     if playurl.startswith("http")and not playurl.startswith("http://["):
-    output_lines.append(infoline)
-    output_lines.append(playurl)
-    i=i+2
-    else:
-    i=i+1
-    except Exception as err:
+       output_lines.append(infoline)
+       output_lines.append(playurl)
+       i=i+2
+     else:
+       i=i+1
+ except Exception as err:
     print(f"读取出错 {src} : {err}")
     with open(out_file,"w",encoding="utf-8")as f:
     f.write("\n".join(output_lines))
     print("执行结束")                                                  
+
