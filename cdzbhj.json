@@ -7,7 +7,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -17,7 +17,7 @@
             "url": "https://tvv.tw/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
 		    "playerType": 1,
             "epg": "https://epg.112114.xyz/pp.xml",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "boot": false
 		},
 	    {
@@ -27,7 +27,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -37,7 +37,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -47,7 +47,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -57,7 +57,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -67,7 +67,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -77,7 +77,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -87,7 +87,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -97,7 +97,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		},
         {
@@ -107,7 +107,7 @@
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
             "logo": "https://live.fanmingming.com/tv/{name}.png",
-            "ua": "okhttp/4.15.0"
+            "ua": "okhttp/4.15.0",
             "boot": false
 		}
   ],
