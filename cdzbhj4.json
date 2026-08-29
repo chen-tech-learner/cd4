@@ -7,7 +7,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false 
     },
     {
       "name": "bang359 iphone",
@@ -16,7 +17,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
     },
     {
       "name": "全国组播",
@@ -25,7 +27,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
     },
     {
       "name": "52top migu",
@@ -34,7 +37,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false 
     },
     {
       "name": "wangziduoqing zb",
@@ -43,7 +47,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
     },
     {
       "name": "zv sese",
@@ -52,7 +57,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
     },
     {
       "name": "wujiangliu haiyan",
@@ -61,7 +67,8 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
     }
   ],
   "parsers": [],
