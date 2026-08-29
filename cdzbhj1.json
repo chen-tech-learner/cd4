@@ -1,0 +1,96 @@
+
+{
+    "lives": [
+        {
+            "name": "央视综艺直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yanghanhanyingshi/iptv/refs/heads/main/live.m3u",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "kakaxi直播",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "bbxx365直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365_lite.m3u",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "zilong精选直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zilong7728/Collect-IPTV/refs/heads/main/best_sorted.m3u",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "zzgpy直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/zzgpy1/ITV/refs/heads/main/output/tv.m3u",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "Richel精选直播",
+            "type": 1,
+            "url": "https://raw.githubusercontent.com/RichelYu1998/Collect-IPTV/refs/heads/main/file/best_sorted_gh-proxy.m3u",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "榴芒电视",
+            "type": 1,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/%E6%A6%B4%E8%8A%92%E7%94%B5%E8%A7%86.txt",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "suxuang-IPV4直播",
+            "type": 1,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "咪咕视频",
+            "type": 1,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wang1680/migu_video/refs/heads/main/interface.txt",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        },
+        {
+            "name": "chen-tech直播",
+            "type": 1,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/iptv-sources/refs/heads/main/cn_all.m3u8",
+            "playerType": 1,
+            "ua": "okhttp/4.15.0",
+            "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+            "logo": "https://live.fanmingming.com/tv/"
+        }
+    ]
+}
+ 
