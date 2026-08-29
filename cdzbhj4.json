@@ -2,15 +2,6 @@
 {
   "lives": [
     {
-      "name": "Guovin iptv-api",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-      "playerType": 1,
-      "ua": "okhttp/4.15.0",
-      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
-    {
       "name": "cyh92 migu",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
