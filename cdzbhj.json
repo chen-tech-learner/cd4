@@ -6,9 +6,10 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "全国组播",
             "type": 0,
@@ -17,88 +18,98 @@
 		    "playerType": 1,
             "epg": "https://epg.112114.xyz/pp.xml",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
-        },
+            "boot": false
+		},
 	    {
             "name": "best-fan直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_all.m3u8",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "jn950直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "a736直播P2P",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/a736240087/tvbox/refs/heads/main/tvlive/tvlive.txt",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "Trysknee直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Trysknee01/tvbox-live/refs/heads/main/live.txt",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "sck直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/result.m3u",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "jifeng直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jifeng250/tvbox-sources/refs/heads/main/live/iptv4-fast.txt",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "jiusanzhou直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jiusanzhou/tvbox/refs/heads/main/shared/lives/vbskycn-iptv4.m3u",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "jincg直播",
             "type": 0,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/jincg99/tvbox/refs/heads/main/live.txt",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        },
+            "boot": false
+		},
         {
             "name": "travellinfang直播",
             "type": 1,
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/travellinfang/my-iptv/refs/heads/main/output/live_available.m3u",
             "playerType": 1,
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/",
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
             "ua": "okhttp/4.15.0"
-        }
+            "boot": false
+		}
   ],
   "parsers": [],
   "flags": [
