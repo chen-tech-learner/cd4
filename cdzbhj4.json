@@ -1,4 +1,3 @@
-﻿
 {
   "lives": [
     {
@@ -64,5 +63,146 @@
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
       "logo": "https://live.fanmingming.com/tv/"
     }
+  ],
+  "parsers": [],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "le"
+  ],
+  "ijkCodes": [
+    {
+      "name": "软解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "硬解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ads": [
+    ".*\\.tt113\\.cc",
+    ".*\\.tom365\\.com",
+    ".*\\.bilibili\\.com",
+    ".*\\.hdslb\\.com",
+    "static-movie.flvcd.com",
+    ".*\\.umeng\\.com",
+    ".*\\.umtrack\\.com",
+    ".*\\.uyunp.com",
+    ".*\\.admaster\\.com\\.cn",
+    ".*\\.adcdn\\.com\\.cn",
+    ".*\\.domob\\.org",
+    ".*\\.domob\\.cn",
+    ".*\\.tnscount\\.com",
+    ".*\\.tnsxyz\\.com",
+    ".*\\.miaozhen\\.com",
+    ".*\\.mediav\\.com",
+    ".*\\.baidustatic\\.com",
+    ".*\\.shifen\\.com",
+    ".*\\.datafast\\.com",
+    ".*\\.paypal\\.com"
+  ],
+  "doh": [
+    {
+      "name": "Cloudflare",
+      "url": "https://1.1.1.1/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.8.8",
+        "8.8.4.4"
+      ]
+    }
+  ],
+  "wall": [
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/1.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/2.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/3.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/4.jpg"
   ]
 }
