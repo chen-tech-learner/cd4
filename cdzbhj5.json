@@ -9,7 +9,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "大师直播30",
@@ -19,7 +18,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "色色直播",
@@ -29,7 +27,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "海燕直播",
@@ -39,7 +36,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "EPG直播源",
@@ -49,7 +45,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "香雨直播",
@@ -59,7 +54,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "一一发发",
@@ -69,7 +63,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "IPTV-org中国",
@@ -79,7 +72,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "天幕IPTV",
@@ -89,7 +81,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "APTV直播",
@@ -99,7 +90,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "Netlify直播",
@@ -109,7 +99,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "日活猫TV",
@@ -119,7 +108,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "卡卡西IPTV",
@@ -129,7 +117,6 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
     },
     {
       "name": "卡卡西直连",
@@ -139,8 +126,7 @@
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "timeout": 10000
-    }
+   }
   ],
   "parsers": [],
   "flags": [
