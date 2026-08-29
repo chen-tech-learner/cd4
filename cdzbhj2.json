@@ -69,7 +69,6 @@
       "type": 0,
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
       "playerType": 1,
-      "ua": "okhttp/3.15",
       "epg": "https://cnb.cool/my_team/live/-/git/raw/main/playback.xml",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
