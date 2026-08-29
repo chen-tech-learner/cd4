@@ -1,0 +1,104 @@
+﻿
+{
+  "lives": [
+    {
+      "name": "mafly",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "lemonTV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "445569 live",
+      "type": 0,
+      "url": "https://live.445569.xyz/live.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "tgyes 555",
+      "type": 0,
+      "url": "https://pub.tgyes.eu.org/555.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "zv suale",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "shenqu",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "vbskycn iptv4",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "tianze889 tvdsj",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/tvdsj0505.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "fleung49 star",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "uvqzu 电视直播",
+      "type": 0,
+      "url": "https://pan.uvqzu.cn/f/zqYUY/01.电视直播.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "Guovin iptv-api",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    }
+  ]
+}
