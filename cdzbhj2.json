@@ -7,8 +7,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "全国组播",
       "type": 0,
@@ -16,8 +17,9 @@
       "url": "https://tvv.tw/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
       "playerType": 1,
       "epg": "https://epg.112114.xyz/pp.xml",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
 	{
       "name": "My-TV",
       "type": 0,
@@ -25,8 +27,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "vbskycn iptv4",
       "type": 0,
@@ -34,8 +37,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "mpimg iptv",
       "type": 0,
@@ -43,8 +47,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "fleung49 star",
       "type": 0,
@@ -52,8 +57,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "cyh92 migu",
       "type": 0,
@@ -61,8 +67,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "dgtv",
       "type": 0,
@@ -70,8 +77,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    },
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
     {
       "name": "atryffad 57",
       "type": 0,
@@ -79,8 +87,9 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
-    }
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	}
   ],
   "parsers": [],
   "flags": [
