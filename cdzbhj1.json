@@ -7,8 +7,9 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
-       },
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
+        },
        {
            "name": "全国组播",
            "type": 0,
@@ -16,7 +17,8 @@
            "url": "https://tvv.tw/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
            "playerType": 1,
            "epg": "https://epg.112114.xyz/pp.xml",
-          "logo": "https://live.fanmingming.com/tv/{name}.png"
+          "logo": "https://live.fanmingming.com/tv/{name}.png",
+           "boot": false
        }, 
        {
             "name": "kakaxi直播",
@@ -25,8 +27,9 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
-        },
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
+       },
         {
             "name": "bbxx365直播",
             "type": 1,
@@ -34,7 +37,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         },
         {
             "name": "zilong精选直播",
@@ -43,7 +47,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         },
         {
             "name": "zzgpy直播",
@@ -52,7 +57,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         },
         {
             "name": "Richel精选直播",
@@ -61,7 +67,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         },
         {
             "name": "榴芒电视",
@@ -70,7 +77,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         },
         {
             "name": "suxuang-IPV4直播",
@@ -79,7 +87,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         },
         {
             "name": "咪咕视频",
@@ -88,7 +97,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false 
         },
         {
             "name": "chen-tech直播",
@@ -97,7 +107,8 @@
             "playerType": 1,
             "ua": "okhttp/4.15.0",
             "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-            "logo": "https://live.fanmingming.com/tv/"
+            "logo": "https://live.fanmingming.com/tv/{name}.png",
+            "boot": false
         }
   ],
   "parsers": [],
