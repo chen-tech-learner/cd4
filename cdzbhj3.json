@@ -1,4 +1,3 @@
-﻿
 {
   "lives": [
     {
@@ -8,16 +7,25 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-    {
+	{
+      "name": "全国组播",
+      "type": 0,
+      "ua": "okhttp/4.15.0",
+      "url": "https://tvv.tw/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }, 
+	{
       "name": "lemonTV",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "445569 live",
@@ -26,7 +34,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "tgyes 555",
@@ -35,7 +43,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "zv suale",
@@ -44,7 +52,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "shenqu",
@@ -53,7 +61,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "vbskycn iptv4",
@@ -62,7 +70,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "tianze889 tvdsj",
@@ -71,7 +79,91 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "fleung49 star",{
+  "lives": [
+    {
+      "name": "mafly",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+	{
+      "name": "全国组播",
+      "type": 0,
+      "ua": "okhttp/4.15.0",
+      "url": "https://tvv.tw/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "playerType": 1,
+      "epg": "https://epg.112114.xyz/pp.xml",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }, 
+	{
+      "name": "lemonTV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jia070310/lemonTV/refs/heads/main/iptv-fe.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "445569 live",
+      "type": 0,
+      "url": "https://live.445569.xyz/live.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "tgyes 555",
+      "type": 0,
+      "url": "https://pub.tgyes.eu.org/555.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "zv suale",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "shenqu",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "vbskycn iptv4",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "tianze889 tvdsj",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/tvdsj0505.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "fleung49 star",
@@ -80,7 +172,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "uvqzu 电视直播",
@@ -89,7 +181,7 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "Guovin iptv-api",
@@ -98,7 +190,316 @@
       "playerType": 1,
       "ua": "okhttp/4.15.0",
       "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
-      "logo": "https://live.fanmingming.com/tv/"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
+  ],
+  "parsers": [],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "le"
+  ],
+  "ijkCodes": [
+    {
+      "name": "软解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "硬解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ads": [
+    ".*\\.tt113\\.cc",
+    ".*\\.tom365\\.com",
+    ".*\\.bilibili\\.com",
+    ".*\\.hdslb\\.com",
+    "static-movie.flvcd.com",
+    ".*\\.umeng\\.com",
+    ".*\\.umtrack\\.com",
+    ".*\\.uyunp.com",
+    ".*\\.admaster\\.com\\.cn",
+    ".*\\.adcdn\\.com\\.cn",
+    ".*\\.domob\\.org",
+    ".*\\.domob\\.cn",
+    ".*\\.tnscount\\.com",
+    ".*\\.tnsxyz\\.com",
+    ".*\\.miaozhen\\.com",
+    ".*\\.mediav\\.com",
+    ".*\\.baidustatic\\.com",
+    ".*\\.shifen\\.com",
+    ".*\\.datafast\\.com",
+    ".*\\.paypal\\.com"
+  ],
+  "doh": [
+    {
+      "name": "Cloudflare",
+      "url": "https://1.1.1.1/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.8.8",
+        "8.8.4.4"
+      ]
+    }
+  ],
+  "wall": [
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/1.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/2.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/3.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/4.jpg"
+  ]
+}
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "uvqzu 电视直播",
+      "type": 0,
+      "url": "https://pan.uvqzu.cn/f/zqYUY/01.电视直播.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
+    {
+      "name": "Guovin iptv-api",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
+  ],
+  "parsers": [],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "le"
+  ],
+  "ijkCodes": [
+    {
+      "name": "软解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 0
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "硬解码",
+      "codes": [
+        {
+          "categories": 4,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        },
+        {
+          "categories": 64,
+          "ks": [
+            {
+              "k": "mediacodec",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-auto-rotate",
+              "v": 1
+            },
+            {
+              "k": "mediacodec-handle-resolution-change",
+              "v": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "ads": [
+    ".*\\.tt113\\.cc",
+    ".*\\.tom365\\.com",
+    ".*\\.bilibili\\.com",
+    ".*\\.hdslb\\.com",
+    "static-movie.flvcd.com",
+    ".*\\.umeng\\.com",
+    ".*\\.umtrack\\.com",
+    ".*\\.uyunp.com",
+    ".*\\.admaster\\.com\\.cn",
+    ".*\\.adcdn\\.com\\.cn",
+    ".*\\.domob\\.org",
+    ".*\\.domob\\.cn",
+    ".*\\.tnscount\\.com",
+    ".*\\.tnsxyz\\.com",
+    ".*\\.miaozhen\\.com",
+    ".*\\.mediav\\.com",
+    ".*\\.baidustatic\\.com",
+    ".*\\.shifen\\.com",
+    ".*\\.datafast\\.com",
+    ".*\\.paypal\\.com"
+  ],
+  "doh": [
+    {
+      "name": "Cloudflare",
+      "url": "https://1.1.1.1/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1"
+      ]
+    },
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.8.8",
+        "8.8.4.4"
+      ]
+    }
+  ],
+  "wall": [
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/1.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/2.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/3.jpg",
+    "https://cdn.jsdelivr.net/gh/FongMi/CMS@main/wall/4.jpg"
   ]
 }
