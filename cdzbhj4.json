@@ -1,0 +1,86 @@
+﻿
+{
+  "lives": [
+    {
+      "name": "Guovin iptv-api",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "cyh92 migu",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "tianze889 zbdsj",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/tianze889/vbd/refs/heads/main/zbdsj0515.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "bang359 iphone",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/iphone.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "q1017673817 zubo_all",
+      "type": 0,
+      "url": "https://tvv.tw/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "52top migu",
+      "type": 0,
+      "url": "http://www.52top.com.cn:678/downloads/migu.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "wangziduoqing zb",
+      "type": 0,
+      "url": "http://wangziduoqing.com/yuan/zb.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "zv sese",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    },
+    {
+      "name": "wujiangliu haiyan",
+      "type": 0,
+      "url": "https://hub.glowp.xyz/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/haiyan.txt",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/"
+    }
+  ]
+}
