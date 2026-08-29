@@ -1,0 +1,95 @@
+﻿
+{
+  "lives": [
+    {
+      "name": "央视频道状态",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_cctv_status.m3u8",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "My-TV",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/chen-tech-learner/My-TV/refs/heads/main/my_tv.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "vbskycn iptv4",
+      "type": 0,
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "88.is-great",
+      "type": 0,
+      "url": "http://88.is-great.org/8/i/93755.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "mpimg iptv",
+      "type": 0,
+      "url": "https://mpimg.cn/down.php/3a34ab736c2a9b0100616191003db44c.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "fleung49 star",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "xiang migu",
+      "type": 0,
+      "url": "http://xiang.hyperphp.com/migu.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "cyh92 migu",
+      "type": 0,
+      "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/source/migu.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://cnb.cool/my_team/live/-/git/raw/main/playback.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "dgtv",
+      "type": 0,
+      "url": "http://1.94.31.214/live/live9/dgtv.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "atryffad 57",
+      "type": 0,
+      "url": "http://atryffad.usa3.345123.xyz/57.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "https://epg.112114.xyz/pp/ch.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
