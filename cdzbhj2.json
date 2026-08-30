@@ -80,7 +80,16 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "boot": false
 	},
-    {
+    { "name": "海豚仓库港台",
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/FGBLH/EHR663/refs/heads/main/%E5%86%85%E5%9C%B0%E6%B8%AF%E5%8F%B0",
+      "playerType": 1,
+      "ua": "okhttp/4.15.0",
+      "epg": "https://gh-proxy.org/https://raw.githubusercontent.com/sck03407/iptv-tvbox/refs/heads/main/output/epg/epg.gz",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "boot": false
+	},
+	  {
       "name": "atryffad 57",
       "type": 0,
       "url": "http://atryffad.usa3.345123.xyz/57.txt",
